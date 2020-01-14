@@ -1,0 +1,17 @@
+/* CSS Document */
+
+.grid.well-aligned-logos {
+    margin: 0 0; 
+}
+
+#content {
+    margin-top: 0px;
+}
+
+#toggles a.search-toggle {
+    display: none;
+}
+.collection_image {
+	background-color: blue;
+	margin-bottom: 2em;
+}
