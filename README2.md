@@ -1,6 +1,8 @@
-Changes made to style.css for Lilly A-Z Omeka (originally: thedaily v. 1.2/css/style.css)
-Line 8- font-family:TrajanPro
-Line 22- body {
+<html>
+<body>
+            <h2>Changes made to style.css for Lilly A-Z Omeka (originally: thedaily v. 1.2/css/style.css)</h2>
+            <p>Line 8- font-family:TrajanPro</p>
+<p>Line 22- body {
             margin: 0;
             background-color: #fff;
             color: #000}
@@ -17,7 +19,7 @@ Line 22- body {
             float: left;
             width: 50%;
             }
- **Lines 22-43 inserted where Line 19 is on original CSS**
+            **Lines 22-43 inserted where Line 19 is on original CSS**</p>
  Line 96- .resp-container {
                 position: relative;
                 overflow: hidden;
@@ -61,3 +63,5 @@ Line 437- font-family: "BentonSansRegular";
 **Lines 437-438 changing lines 373-374 of original CSS**
 Line 444- font-family: "BentonSansRegular":
 **Line 444 changing Line 380 of original CSS**
+</body>
+</html>
