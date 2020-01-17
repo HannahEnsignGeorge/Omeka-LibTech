@@ -1,4 +1,4 @@
-**Changes made to Lilly A-Z theme (style.css) from original theme (Thanks, Roy v. 2.1.1)**
+**Changes made to IU Archives theme (home-style.css) from original theme (Thanks, Roy v. 2.1.1)**
 
 Line 419
 
