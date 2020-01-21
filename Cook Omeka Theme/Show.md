@@ -39,9 +39,9 @@ Lines 15-20 [Altering Lines 19-25 of Original show.php]
 <?php endif; ?>
 ```
 
-[Deletion at line 43 of original show.php '<nav>']
+[Deletion at line 43 of original show.php]
 
-[Deletion at line 48 of original show.php '</nav>']
+[Deletion at line 48 of original show.php]
 
 Line 43
 
@@ -49,4 +49,4 @@ Line 43
 </div> <!--End of Primary-->
 ```
 
-[Final line of sheet at 45: <?php echo foot(); ?>]
+[Final line of sheet at 45]
