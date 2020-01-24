@@ -85,3 +85,83 @@ Lines 1074-1076 (Wylie House) inserted at Line 1070 of IU Archives:
   color: #424242;
 }
 ```
+
+Lines 1450-1456 (IU Archives) instered between lines 1455-1456 of Wylie House but not included on that sheet.
+
+```
+#recent-items {
+  width: 40%;
+}
+#secondary {
+  width: 100%;
+}
+```
+
+Lines 1460-1476 (IU Archives) inserted between lines 1458-1459 of Wylie House but not included on that sheet.
+
+```
+#div.exhibit {
+  clear: both;
+}
+
+div.exhibit a.image {
+  float: left;
+  height: auto;
+  padding: 5px 25px 25px 25px;
+}
+div.exhibit p.tags {
+  line-height: 24px;
+}
+div.exhibit h3 {
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  line-height: 24px;
+}
+```
+
+Lines 1527-1533 (IU Archives) inserted between lines 1508-1509 of Wylie House but not included on that sheet.
+
+```
+#featured-item {
+  width: 100%;
+}
+.item.record {
+
+}
+
+```
+
+Line 1554 (Wylie House) and Line 1579 (IU Archives)
+
+```
+padding-top: 1.33333em;
+```
+
+```
+padding-top: 0em;
+```
+
+Lines 1566-1575 (Wylie House) inserted between lines 1590-1591 of IU Archives but not included on that sheet.
+
+```
+#div.exhibit {
+  clear: both;
+}
+
+div.exhibit a.image {
+  float: left;
+  height: auto;
+  padding: 5px 25px 25px 25px;
+}
+
+```
+
+Lines 1607-1610 (Wylie House) inserted between lines 1621-1622 of IU Archives but not included on that sheet.
+
+```
+#exhibit-pages a {
+  display: none;
+}
+
+```
+
