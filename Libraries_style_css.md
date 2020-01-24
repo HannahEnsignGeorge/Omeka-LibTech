@@ -165,3 +165,19 @@ Lines 1607-1610 (Wylie House) inserted between lines 1621-1622 of IU Archives bu
 
 ```
 
+Lines 1838 & 1840 (Wylie House) and Lines 1849-1850 (IU Archives)
+
+```
+width: 43.15789%;
+```
+```
+margin-right: 1.05263%;
+```
+
+```
+width: 53.15789%;
+```
+```
+margin-right: 5.05263%;
+```
+
