@@ -1,7 +1,0 @@
-```
-<?php
-
-require_once dirname(__FILE__) . '/functions.php';
-```
-
-Themes that do not have a custom.php file: Cook Music Library, IU Archives, Wylie House. All three based on Thanks, Roy v. 2.1.1, which did not have a custom.php file. Earlier and later versions of Thanks, Roy do have custom.php.
